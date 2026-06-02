@@ -1,4 +1,4 @@
-# TradeMind-MLOps: KI-gestütztes Assistenzsystem für Privattrader
+# TradeMindMLOps: KI-gestütztes Assistenzsystem für Privattrader
 
 ## Zusammenfassung
 **TradeMind-MLOps** ist ein konzeptionelles Assistenzsystem, das mithilfe von Machine-Learning-Algorithmen historische Marktdaten analysiert. Das System dient Privattratern als digitaler Filter, um emotionales Rauschen und Panikreaktionen an volatilen Märkten (Krypto und Aktien) zu minimieren.
