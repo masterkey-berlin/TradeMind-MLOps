@@ -1,3 +1,4 @@
+## Zusammenfassung 
 # TradeMind-MLOps: KI-gestütztes Assistenzsystem für Privattrader
 
 ## 1. Ihre Idee in Kürze
